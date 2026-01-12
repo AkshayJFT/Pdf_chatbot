@@ -1,0 +1,244 @@
+{
+  "brand_features": {
+    "presentation_type": "brand_features",
+    "slides": [
+      {
+        "slide_id": "slide1",
+        "title": "Brand Introduction and Positioning",
+        "focus_area": "Introducing Mezzo Windows by Alside",
+        "pages": [
+          2,
+          3
+        ],
+        "content_summary": "Mezzo Windows offer a blend of elegant style, strength, and energy efficiency. Alside's legacy of excellence and innovation is reflected in the custom-made windows designed with quality and expertise.",
+        "narration": {
+          "duration_sec": 45,
+          "script": "Let me introduce you to Mezzo Windows by Alside. These windows are a perfect blend of elegant style, strength, and energy efficiency. You can see Alside's legacy of excellence and innovation reflected in these custom-made windows, designed with top-notch quality and expertise. Mezzo Windows are not just windows; they are a statement of sophistication and durability, providing you with both style and functionality. With Mezzo Windows, you can enhance the look of your home while also improving its energy efficiency."
+        }
+      },
+      {
+        "slide_id": "slide2",
+        "title": "Material Quality and Construction Technology",
+        "focus_area": "Innovative Construction Technologies of Mezzo Windows",
+        "pages": [
+          4,
+          5
+        ],
+        "content_summary": "Mezzo Windows feature EdgeForce narrowline frame, CoreFX composite reinforcement, Defense-Tek locking system, Forecaster design, Gatekeeper weather resistance, and Ocular screen bulb seal for enhanced functionality and durability.",
+        "narration": {
+          "duration_sec": 45,
+          "script": "Now let's talk about the innovative construction technologies of Mezzo Windows. These windows are packed with features that ensure top-notch quality and durability. The EdgeForce narrowline frame provides a sleek look while maintaining strength. With CoreFX composite reinforcement, these windows are built to last. The Defense-Tek locking system offers added security for your peace of mind. The Forecaster design not only looks great but also enhances energy efficiency. Gatekeeper weather resistance ensures your windows can withstand the elements. And the Ocular screen bulb seal adds an extra layer of protection. Mezzo Windows truly excel in functionality and durability."
+        }
+      },
+      {
+        "slide_id": "slide3",
+        "title": "Energy Efficiency and Insulation Systems",
+        "focus_area": "Advanced Energy Efficiency of Mezzo Windows",
+        "pages": [
+          6
+        ],
+        "content_summary": "Mezzo Windows offer ClimaTech insulated glass packages, enhanced cavity foam insulation, and superior thermal performance to maximize energy savings year-round.",
+        "narration": {
+          "duration_sec": 45,
+          "script": "Mezzo Windows take energy efficiency to the next level with their advanced features. The ClimaTech insulated glass packages, enhanced cavity foam insulation, and superior thermal performance work together to ensure maximum energy savings throughout the year. This means you can enjoy a comfortable home while reducing your energy costs. With Mezzo Windows, you're not only investing in quality windows but also in a more sustainable and cost-effective living space."
+        }
+      },
+      {
+        "slide_id": "slide4",
+        "title": "Weather Resistance and Security Features",
+        "focus_area": "Unmatched Weather Resistance and Security of Mezzo Windows",
+        "pages": [
+          5,
+          6
+        ],
+        "content_summary": "Mezzo Windows feature airtight insulating chambers, dual bulb seals, Gatekeeper technology, and security enhancements for protection against extreme weather and intruders.",
+        "narration": {
+          "duration_sec": 45,
+          "script": "Now let's talk about the impressive weather resistance and security features of Mezzo Windows. These windows are designed with airtight insulating chambers and dual bulb seals to keep your home protected from extreme weather conditions. The Gatekeeper technology adds an extra layer of security, ensuring your peace of mind. Plus, with additional security enhancements, Mezzo Windows are not only weather-resistant but also intruder-resistant. So, you can trust that your home and loved ones are safe and secure with Mezzo Windows."
+        }
+      },
+      {
+        "slide_id": "slide5",
+        "title": "Design, Aesthetics, and Color Options",
+        "focus_area": "Elegant Design and Customization of Mezzo Windows",
+        "pages": [
+          5,
+          8,
+          16
+        ],
+        "content_summary": "Mezzo Windows offer sleek design, clean lines, and a variety of color and finish options from the FrameWorks Color Collection for a visually appealing window solution.",
+        "narration": {
+          "duration_sec": 45,
+          "script": "Mezzo Windows are all about style and customization. They boast a sleek design with clean lines that add a touch of elegance to any space. What sets them apart is the wide range of color and finish options available from the FrameWorks Color Collection. This means you can truly personalize your windows to match your unique taste and home d\u00e9cor. Whether you prefer a classic white finish or a bold, statement color, Mezzo Windows offer a visually appealing solution that complements your style effortlessly."
+        }
+      },
+      {
+        "slide_id": "slide6",
+        "title": "Warranty, Durability, and Premium Standards",
+        "focus_area": "Alside's Premium Warranty and Durability Commitment",
+        "pages": [
+          8,
+          18
+        ],
+        "content_summary": "Alside provides a Lifetime Limited Warranty for Mezzo Windows, ensuring long-lasting performance and value. The brand's commitment to quality and sustainability makes it a premium choice.",
+        "narration": {
+          "duration_sec": 45,
+          "script": "Alside offers a Lifetime Limited Warranty for Mezzo Windows, guaranteeing durability and value for the long haul. This commitment to quality and sustainability sets Alside apart as a premium choice in the market. With this warranty, you can trust that your investment is protected, and you can enjoy peace of mind knowing that your windows are built to last."
+        }
+      }
+    ]
+  },
+  "products": {
+    "presentation_type": "products",
+    "products": [
+      {
+        "product_id": "product1",
+        "product_name": "Mezzo Windows",
+        "pages": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "features": [
+          "EdgeForce narrowline frame",
+          "CoreFX composite reinforcement",
+          "Defense-Tek locking system",
+          "Forecaster design for enhanced drainage",
+          "Gatekeeper interlocking technology",
+          "Ocular screen bulb seal",
+          "ClimaTech insulated glass packages",
+          "Enhanced cavity foam insulation",
+          "Energy-efficient performance",
+          "Variety of color and finish options"
+        ],
+        "price_context": "Premium pricing",
+        "ideal_for": "Homeowners seeking stylish, energy-efficient, and durable windows",
+        "narration": {
+          "duration_sec": 45,
+          "script": "Welcome to Mezzo Windows, where innovation meets style. Our EdgeForce narrowline frame not only enhances your view but also maximizes natural light in your space. With CoreFX composite reinforcement and Defense-Tek locking system, your home stays secure and energy-efficient.\n\nThe Forecaster design ensures superior drainage, while Gatekeeper interlocking technology provides added protection against the elements. The Ocular screen bulb seal keeps bugs out and comfort in. Choose from a variety of color and finish options to complement your home's aesthetic.\n\nExperience the ClimaTech insulated glass packages and enhanced cavity foam insulation for ultimate energy efficiency. Mezzo Windows - where form meets function for a brighter, more comfortable home."
+        }
+      },
+      {
+        "product_id": "product2",
+        "product_name": "Mezzo Sliding Windows",
+        "pages": [
+          10
+        ],
+        "features": [
+          "Narrowline frame and sashes",
+          "Insulated glass unit with warm-edge spacer system",
+          "Smooth gliding action",
+          "Heavy-duty construction",
+          "Easy cleaning and maintenance"
+        ],
+        "price_context": "High-quality sliding window option",
+        "ideal_for": "Customers looking for slim, stylish, and easy-to-operate sliding windows",
+        "narration": {
+          "duration_sec": 45,
+          "script": "These Mezzo Sliding Windows are designed with a narrowline frame and sashes, giving your space a sleek and modern look. The insulated glass unit with a warm-edge spacer system helps keep your home comfortable year-round, saving you money on energy bills. The smooth gliding action of these windows makes opening and closing them a breeze. With their heavy-duty construction, you can trust in their durability and security. And when it comes to cleaning and maintenance, these windows make it easy for you to keep them looking great with minimal effort."
+        }
+      },
+      {
+        "product_id": "product3",
+        "product_name": "Mezzo Double-Hung Windows",
+        "pages": [
+          8
+        ],
+        "features": [
+          "Narrowline frame and sashes",
+          "Integrated sash-to-sill interlock",
+          "Non-conductive composite reinforcement",
+          "True sloped sill design",
+          "Constant force balance system",
+          "Hidden screen track",
+          "Tilt-in sashes for easy cleaning"
+        ],
+        "price_context": "Premium double-hung window option",
+        "ideal_for": "Homeowners seeking classic style, easy maintenance, and energy efficiency",
+        "narration": {
+          "duration_sec": 45,
+          "script": "The Mezzo Double-Hung Windows offer a sleek design with narrowline frame and sashes, giving your home a modern and elegant look. With an integrated sash-to-sill interlock and non-conductive composite reinforcement, these windows provide enhanced security and energy efficiency. The true sloped sill design prevents water accumulation, keeping your home safe and dry. Cleaning is a breeze with the tilt-in sashes, while the constant force balance system ensures smooth operation. Plus, the hidden screen track maintains a seamless appearance. Upgrade to Mezzo Double-Hung Windows for style, convenience, and peace of mind."
+        }
+      },
+      {
+        "product_id": "product4",
+        "product_name": "Mezzo Picture Windows",
+        "pages": [
+          11
+        ],
+        "features": [
+          "Narrowline frame with full glass exposure",
+          "High-performance insulating components",
+          "Versatile design for various architectural styles",
+          "Unobstructed outdoor view"
+        ],
+        "price_context": "Luxurious picture window option",
+        "ideal_for": "Customers looking to create a statement piece with unobstructed views",
+        "narration": {
+          "duration_sec": 45,
+          "script": "Imagine bringing the beauty of the outdoors inside with Mezzo Picture Windows. These windows feature a sleek Narrowline frame that provides a full glass exposure, giving you an unobstructed view of the outside world. Not only do they enhance the aesthetics of your home, but they also offer high-performance insulating components, helping you save on energy costs. The versatile design of Mezzo Picture Windows complements various architectural styles, adding a touch of elegance to any space. Upgrade your view and your home with Mezzo Picture Windows."
+        }
+      },
+      {
+        "product_id": "product5",
+        "product_name": "Mezzo Casement and Awning Windows",
+        "pages": [
+          12
+        ],
+        "features": [
+          "Beveled exterior sash design",
+          "Step-down frame with compression-type seal",
+          "State-of-the-art hinge system",
+          "Multi-point locking system",
+          "Variety of lite configurations"
+        ],
+        "price_context": "High-quality casement and awning window options",
+        "ideal_for": "Customers seeking historical charm with modern technology in window design",
+        "narration": {
+          "duration_sec": 45,
+          "script": "These Mezzo Casement and Awning Windows are designed with a beveled exterior sash, not just for a sleek look, but to enhance your home's curb appeal. The step-down frame with a compression-type seal ensures a tight seal, keeping your home well-insulated and energy-efficient. With a state-of-the-art hinge system, these windows open and close smoothly with minimal effort. Plus, the multi-point locking system provides added security for your peace of mind. You can customize your windows with a variety of lite configurations to suit your style and preferences. These windows are not just functional, but they also elevate the aesthetics and security of your home."
+        }
+      },
+      {
+        "product_id": "product6",
+        "product_name": "Mezzo Bay, Bow & Garden Windows",
+        "pages": [
+          13
+        ],
+        "features": [
+          "Furniture-grade veneer construction",
+          "Insulated glass units for all-weather protection",
+          "Variety of architectural styles and shapes",
+          "Customizable seatboard options"
+        ],
+        "price_context": "Premium bay, bow, and garden window options",
+        "ideal_for": "Customers looking to enhance their home with unique window configurations",
+        "narration": {
+          "duration_sec": 45,
+          "script": "The Mezzo Bay, Bow & Garden Windows offer more than just furniture-grade veneer construction. They provide a touch of elegance to your space while ensuring all-weather protection with insulated glass units. With a variety of architectural styles and shapes available, you can easily find the perfect fit for your home. Plus, the customizable seatboard options allow you to personalize your windows to match your unique style. Upgrade your space with these windows that not only look beautiful but also offer durability and customization options to enhance your living environment."
+        }
+      },
+      {
+        "product_id": "product7",
+        "product_name": "Mezzo Sliding Patio Doors",
+        "pages": [
+          14
+        ],
+        "features": [
+          "Premium vinyl mainframe and sash extrusions",
+          "Insulated glass units with warm-edge spacer system",
+          "Steel reinforcements for structural integrity",
+          "Tandem roller system for smooth operation",
+          "Variety of panel styles and widths"
+        ],
+        "price_context": "High-quality sliding patio door option",
+        "ideal_for": "Homeowners seeking durable, energy-efficient, and visually appealing patio doors",
+        "narration": {
+          "duration_sec": 45,
+          "script": "The Mezzo Sliding Patio Doors offer a perfect blend of style and functionality for your home. Crafted with premium vinyl and steel reinforcements, these doors provide not only durability but also structural integrity for added security. The insulated glass units with a warm-edge spacer system help maintain a comfortable indoor temperature, saving you on energy costs. The tandem roller system ensures smooth and effortless operation every time you open or close the door. With a variety of panel styles and widths to choose from, you can customize the doors to perfectly complement your home's aesthetic. Upgrade your space with the Mezzo Sliding Patio Doors for a seamless indoor-outdoor living experience."
+        }
+      }
+    ]
+  }
+}

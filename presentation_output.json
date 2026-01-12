@@ -1,0 +1,192 @@
+{
+  "brand_features": {
+    "presentation_type": "brand_features",
+    "slides": [
+      {
+        "slide_id": "slide1",
+        "title": "Brand Introduction and Positioning",
+        "focus_area": "Introducing Mezzo Windows by Alside",
+        "pages": [
+          2,
+          3
+        ],
+        "content_summary": "Mezzo Windows offer a blend of elegant style, strength, and energy efficiency. Alside's legacy of excellence and innovation is reflected in the custom-made windows designed with quality and expertise."
+      },
+      {
+        "slide_id": "slide2",
+        "title": "Material Quality and Construction Technology",
+        "focus_area": "Innovative Construction Technologies of Mezzo Windows",
+        "pages": [
+          4,
+          5
+        ],
+        "content_summary": "Mezzo Windows feature EdgeForce narrowline frame, CoreFX composite reinforcement, Defense-Tek locking system, Forecaster design, Gatekeeper weather resistance, and Ocular screen bulb seal for enhanced functionality and durability."
+      },
+      {
+        "slide_id": "slide3",
+        "title": "Energy Efficiency and Insulation Systems",
+        "focus_area": "Advanced Energy Efficiency of Mezzo Windows",
+        "pages": [
+          6
+        ],
+        "content_summary": "Mezzo Windows offer ClimaTech insulated glass packages, enhanced cavity foam insulation, and superior thermal performance to maximize energy savings year-round."
+      },
+      {
+        "slide_id": "slide4",
+        "title": "Weather Resistance and Security Features",
+        "focus_area": "Unmatched Weather Resistance and Security of Mezzo Windows",
+        "pages": [
+          5,
+          6
+        ],
+        "content_summary": "Mezzo Windows feature airtight insulating chambers, dual bulb seals, Gatekeeper technology, and security enhancements for protection against extreme weather and intruders."
+      },
+      {
+        "slide_id": "slide5",
+        "title": "Design, Aesthetics, and Color Options",
+        "focus_area": "Elegant Design and Customization of Mezzo Windows",
+        "pages": [
+          5,
+          8,
+          16
+        ],
+        "content_summary": "Mezzo Windows offer sleek design, clean lines, and a variety of color and finish options from the FrameWorks Color Collection for a visually appealing window solution."
+      },
+      {
+        "slide_id": "slide6",
+        "title": "Warranty, Durability, and Premium Standards",
+        "focus_area": "Alside's Premium Warranty and Durability Commitment",
+        "pages": [
+          8,
+          18
+        ],
+        "content_summary": "Alside provides a Lifetime Limited Warranty for Mezzo Windows, ensuring long-lasting performance and value. The brand's commitment to quality and sustainability makes it a premium choice."
+      }
+    ]
+  },
+  "products": {
+    "presentation_type": "products",
+    "products": [
+      {
+        "product_id": "product1",
+        "product_name": "Mezzo Windows",
+        "pages": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "features": [
+          "EdgeForce narrowline frame",
+          "CoreFX composite reinforcement",
+          "Defense-Tek locking system",
+          "Forecaster design for enhanced drainage",
+          "Gatekeeper interlocking technology",
+          "Ocular screen bulb seal",
+          "ClimaTech insulated glass packages",
+          "Enhanced cavity foam insulation",
+          "Energy-efficient performance",
+          "Variety of color and finish options"
+        ],
+        "price_context": "Premium pricing",
+        "ideal_for": "Homeowners seeking stylish, energy-efficient, and durable windows"
+      },
+      {
+        "product_id": "product2",
+        "product_name": "Mezzo Sliding Windows",
+        "pages": [
+          10
+        ],
+        "features": [
+          "Narrowline frame and sashes",
+          "Insulated glass unit with warm-edge spacer system",
+          "Smooth gliding action",
+          "Heavy-duty construction",
+          "Easy cleaning and maintenance"
+        ],
+        "price_context": "High-quality sliding window option",
+        "ideal_for": "Customers looking for slim, stylish, and easy-to-operate sliding windows"
+      },
+      {
+        "product_id": "product3",
+        "product_name": "Mezzo Double-Hung Windows",
+        "pages": [
+          8
+        ],
+        "features": [
+          "Narrowline frame and sashes",
+          "Integrated sash-to-sill interlock",
+          "Non-conductive composite reinforcement",
+          "True sloped sill design",
+          "Constant force balance system",
+          "Hidden screen track",
+          "Tilt-in sashes for easy cleaning"
+        ],
+        "price_context": "Premium double-hung window option",
+        "ideal_for": "Homeowners seeking classic style, easy maintenance, and energy efficiency"
+      },
+      {
+        "product_id": "product4",
+        "product_name": "Mezzo Picture Windows",
+        "pages": [
+          11
+        ],
+        "features": [
+          "Narrowline frame with full glass exposure",
+          "High-performance insulating components",
+          "Versatile design for various architectural styles",
+          "Unobstructed outdoor view"
+        ],
+        "price_context": "Luxurious picture window option",
+        "ideal_for": "Customers looking to create a statement piece with unobstructed views"
+      },
+      {
+        "product_id": "product5",
+        "product_name": "Mezzo Casement and Awning Windows",
+        "pages": [
+          12
+        ],
+        "features": [
+          "Beveled exterior sash design",
+          "Step-down frame with compression-type seal",
+          "State-of-the-art hinge system",
+          "Multi-point locking system",
+          "Variety of lite configurations"
+        ],
+        "price_context": "High-quality casement and awning window options",
+        "ideal_for": "Customers seeking historical charm with modern technology in window design"
+      },
+      {
+        "product_id": "product6",
+        "product_name": "Mezzo Bay, Bow & Garden Windows",
+        "pages": [
+          13
+        ],
+        "features": [
+          "Furniture-grade veneer construction",
+          "Insulated glass units for all-weather protection",
+          "Variety of architectural styles and shapes",
+          "Customizable seatboard options"
+        ],
+        "price_context": "Premium bay, bow, and garden window options",
+        "ideal_for": "Customers looking to enhance their home with unique window configurations"
+      },
+      {
+        "product_id": "product7",
+        "product_name": "Mezzo Sliding Patio Doors",
+        "pages": [
+          14
+        ],
+        "features": [
+          "Premium vinyl mainframe and sash extrusions",
+          "Insulated glass units with warm-edge spacer system",
+          "Steel reinforcements for structural integrity",
+          "Tandem roller system for smooth operation",
+          "Variety of panel styles and widths"
+        ],
+        "price_context": "High-quality sliding patio door option",
+        "ideal_for": "Homeowners seeking durable, energy-efficient, and visually appealing patio doors"
+      }
+    ]
+  }
+}
