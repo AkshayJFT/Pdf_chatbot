@@ -1,6 +1,7 @@
 import json
 from controller import PresentationController
 from voice_service import speech_to_text
+from mic_recorder import record_audio
 
 def main():
     with open("presentation_with_narration.json") as f:
@@ -11,14 +12,21 @@ def main():
 
     controller = PresentationController(slides, products)
 
+    # Play narration
     controller.play()
 
-    input("\n🎤 Press ENTER after asking a question (simulate mic capture)...")
+    # Record user question
+    input("\nPress ENTER to ask a question using your voice...")
+    record_audio("question.wav", duration=5)
 
-    # Assume mic audio already recorded as question.wav
+    # Transcribe
     question_text = speech_to_text("question.wav")
+    print(f"\n📝 Transcribed Question: {question_text}")
+
+    # Ask question
     controller.ask_question(question_text)
 
+    # Resume presentation
     controller.end_qa()
     controller.skip()
 

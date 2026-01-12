@@ -1,5 +1,6 @@
 from voice_service import text_to_speech
 from audio_player import play_audio
+from qa_engine import answer_question
 
 class PresentationController:
     def __init__(self, slides, products):
@@ -45,9 +46,18 @@ class PresentationController:
 
     def ask_question(self, question):
         print(f"\n💬 User asked: {question}")
+
         self.context_stack.append(self.current_index)
         self.state = "QA"
-        print("🤖 Answering question (stubbed response)")
+
+        answer = answer_question(
+            question=question,
+            current_slide=self.current_slide(),
+            brand_slides=self.slides,
+            products=self.products
+        )
+        audio_file = text_to_speech(answer)
+        play_audio(audio_file)
 
     def end_qa(self):
         if self.state == "QA":
